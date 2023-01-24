@@ -1,0 +1,5 @@
+A Alligator
+B Bat 
+C Coughar
+D Duck 
+E Elephant
